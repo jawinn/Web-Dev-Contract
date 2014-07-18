@@ -2,15 +2,13 @@
 
 <h2>Summary</h2>
 
-<p>I will always do my best to fulfill your needs and meet our goals, but it&#8217;s best to have a few simple things written down so that we both know what is what, who should do what and what happens if things go awry. In this contract you won&#8217;t find complicated legal terms or large passages of unreadable text. I have no desire to trick you into signing something that you might later regret. I do want what&#8217;s best for the safety of both parties, now and for future projects.</p>
-
 <h4>In short</h4>
 
-<p>You, [CLIENT NAME] representing [CLIENT COMPANY], are hiring [SENDER COMPANY] to perform web development work for the estimated total price of [$ PROJECT VALUE] up to a maximum of [MAX PROJECT HOURS] as outlined in our previous correspondence. The agreed payment plan is at the end of this document and more detail on the services is provided below.</p>
+<p>You, [CLIENT NAME] representing [CLIENT COMPANY], are hiring [SENDER COMPANY] to perform web development work for the fixed price of [$ PROJECT VALUE]. The agreed payment plan is at the end of this document and more detail on the services is provided below.</p>
 
 <h4>What do both parties agree to do?</h4>
 
-<p>As my customer, you have the power and ability to enter into this contract on behalf of your company or organisation. You agree to provide me with everything that I need to complete the project including text, images and other information as and when I need it and in the format that I ask for. You agree to review my work, provide feedback and sign-off approval in a timely manner. Deadlines work two ways and you will also be bound by any dates that we set together. You also agree to stick to the payment schedule set out at the end of this contract.</p>
+<p>As my customer, you have the power and ability to enter into this contract on behalf of your company or organization. You agree to provide me with everything that I need to complete the project including text, images and other information as and when I need it and in the format that I ask for. You agree to review my work, provide feedback and sign-off approval in a timely manner. Deadlines work two ways and you will also be bound by any dates that we set together. You also agree to stick to the payment schedule set out at the end of this contract.</p>
 
 <p>I have the experience and ability to perform the services you need from me and I will carry them out in a professional and timely manner. Along the way I will endeavour to meet all the deadlines set between us but I can&#8217;t be responsible for a missed launch date or a deadline if you have been late in supplying materials or have not approved or signed off my work on-time at any stage.</p>
 
@@ -18,7 +16,11 @@
 
 <h2>Details of the Works</h2>
 
-<p>I will [DETAILED SERVICES OVERVIEW]. This contract includes one main development cycle plus the opportunity for you to make up to two rounds of 10 revision points. If you&#8217;re not happy with the website at this stage, you agree to pay me in full for all of the work that I have produced until that point and you may either cancel this contract or continue to commission me to make further design revisions at my standard hourly rate of [$ HOURLY RATE]. </p>
+<p>I will [DETAILED SERVICES OVERVIEW]. 
+
+
+
+This contract includes one main development cycle plus the opportunity for you to make up to [REVISION HOURS] hours of revisions. If you&#8217;re not happy with the website at this stage, you agree to pay me in full for all of the work that I have produced until that point and you may either cancel this contract or continue to commission me to make further design revisions at my standard hourly rate of [$ HOURLY RATE]. </p>
 
 <h4>Text content and photography</h4>
 
@@ -28,19 +30,19 @@
 
 <h4>Changes and revisions</h4>
 
-<p>Fixed-price contracts are rarely beneficial to you, as they often limit you to your first idea about how something should look, or how it might work. I don&#8217;t want to limit either your options or your opportunities to change your mind. The estimate/quotation prices at the beginning of this document are based on the number of hours that I estimate I&#8217;ll need to accomplish everything that you have told me you want to achieve. If you do want to change your mind, add extra pages or templates or even add new functionality, that won&#8217;t be a problem. You will be charged my standard hourly rate as mentioned above. Along the way I might ask you to put requests in writing so I can keep track of changes.</p>
+<p>The estimate/quotation prices at the beginning of this document are based on the number of hours that I estimate I&#8217;ll need to accomplish everything that you have told me you want to achieve. Included is a built-in expectation of [REVISION HOURS] hours of revisions. Revisions should be sent in writing, for the ease of completion and so they can be kept track of. Excessive revision hours beyond this number will be charged my standard hourly rate as mentioned above. </p>
 
-<p>Additionally, if I feel the development requirements will exceed this maximum quoted time, I will advise you of this and we can discuss a quote to finish the work or continue development at my hourly rate.</p>
+<p>Additionally, if I feel the development requirements have changed significantly from what is laid out in this contract and will exceed this maximum quoted time, I will advise you of this and we can discuss a quote to finish the work or continue development at my hourly rate.</p>
 
 <h4>Browser testing</h4>
 
-<p>If the project includes HTML markup and CSS styling, I will develop these using HTML5 and CSS3. I will test all my code in current versions of all major browsers including those made by Apple (Safari), Microsoft (IE9+), Mozilla (FireFox), Google (Chrome) and Opera. I will also test to ensure that pages will display visually in a similar, albeit not necessarily an identical way, in Microsoft Internet Explorer 8 for Windows as this browser lacks a lot of the functionality required for modern web development practices. Every effort will be made to gracefully degrade the website in older browsers so an to not diminish the visitors experience. </p>
+<p>If the project includes HTML markup and CSS styling, I will develop these using HTML5 and CSS3. I will test all my code in current versions of the major browsers including those made by Apple (Safari), Microsoft (IE9+), Mozilla (FireFox), and Google (Chrome). Note that some older browsers lack a lot of the functionality required for modern web development practices, and pages in those browsers may not necessarily display in an identical way. Every effort will be made to gracefully degrade the website in older browsers so an to not diminish the visitors experience. </p>
 
 <p>However, I will not test these templates in old or abandoned browsers, for example Microsoft Internet Explorer 6 or 7 (or below) for Windows or Mac, previous versions of Apple Safari, Mozilla Firefox, Google Chrome, Opera or other unless otherwise specified. If you need to show the same or similar visual design to visitors using these older browsers, I will charge you at the hourly rate for any necessary additional code and its testing.</p>
 
 <h4>Website launch</h4>
 
-<p>You are responsible to keep a copy of any existing website files and/or databases. Upon launch, I am able to move existing files to its own directory if you advise to do so.</p>
+<p>You are responsible to keep a copy of any existing website files and/or databases. Upon launch, I am able to move existing files to your server and make the new site and/or theme live, if you advise to do so.</p>
 
 <p>I am committed to making you feel as comfortable as possible with your new website once it is launched, however I cannot provide on-going training after launch. I will try my best to guide you in the right direction with regards to understanding the CMS. Should you need training on how to use it, I am able to quote this for you at my standard hourly rate. It is assumed no training is included in the quoted amount, unless specified otherwise in written correspondence.</p>
 
@@ -50,19 +52,19 @@
 
 <h4>Technical support</h4>
 
-<p>You may already have professional website hosting; you might even manage that hosting in-house; if that&#8217;s the case, great. If you don&#8217;t manage your own website hosting, I can set up an account for you at one of my preferred, third-party hosting providers. I will charge you a one-off fee for installing your site on this server, plus any statistics software such as Google Analytics; then the updates to, and management of that server, plus any support issues will be up to you.</p>
+<p>You may already have professional website hosting; you might even manage that hosting in-house; if that&#8217;s the case, great. If you don&#8217;t manage your own website hosting, I can set up an account for you at one of my preferred, third-party hosting providers. I will charge you a one-off fee for installing your site on this server, and any management of that server. Any support issues will be up to you.</p>
 
 <p>Unfortunately I cannot offer or include technical support for website hosting, email or other services relating to website hosting. If you do require help with anything beyond the development of your site, I&#8217;ll be happy to help or point you in the right direction.</p>
 
 <h4>Hacked Website</h4>
 
-<p>Getting hacked is never fun. I will always do my best to make the website I produce for you as secure as possible but I can neither be responsible for nor accountable for your website after it has been launched. I can also not be responsible for providing a backup of your website files should the worst occur. Most web hosting companies will be able to provide you a recent website backup for a fee and I am also able to offer a regular backup storage service for an ongoing fee which can be discussed. That being said, if I can help out I will surely try.</p>
+<p>Getting hacked is never fun. I will always do my best to make the website I produce for you as secure as possible but I can neither be responsible for nor accountable for your website after it has been launched. I can also not be responsible for providing a backup of your website files should the worst occur. Most web hosting companies will be able to provide you a recent website backup. Also, your CMS (WordPress for example), if you have one, often has plugins to aid with security and backups that I can recommend. That being said, if I can help out I will surely try.</p>
 
 <h4>External Services</h4>
 
 <p>If part of our agreement includes services that I am not able to offer, I will either recommend someone to perform these for you or I can sub-contract these on your behalf. These services may include the likes of Web Design, Search Engine Marketing (SEA) or Search Engine Optimisation (SEO) services. I endevour to perform all web development work myself, but if need be I reserve the right to utilise the services of third party contractors.</p>
 
-<h4>Ecommerce</h4>
+<h4>E-commerce</h4>
 
 <p>If your web development service includes the integration of online purchasing/ecommerce facilities, you will be resopnsible for both the set-up and ongoing costs of these services. These may include merchant gateway fees, purchase of an SSL certificate and any other fees for services provided by this third party functionality. When the time comes to integrate these services, I will endevour to fully inform you of what costs may be involved.</p>
 
@@ -85,11 +87,11 @@
 <li>It is possible that I will use plugins and code from external sources (jQuery for example). In this case, the ownership of that code will be based on the license it is provided with.</li>
 </ul>
 
-<p>I love to show off my work and share what I have learned with other people, so I would like the opportunity to display and link to your completed project as part of my portfolio and to write about the project on websites, in magazine articles and in books.</p>
+<p>I love to show off my work and share what I have learned with other people, so I would like the opportunity to display and link to your completed project as part of my portfolio and writings.</p>
 
 <h2>Payments</h2>
 
-<p>I am sure you understand how important it is as a small business that you pay the invoices that I send you promptly. As I&#8217;m also sure you&#8217;ll want to stay friends, you agree to stick to the following payment schedule, which will be as follows, but may be revised based on further conversations between us.</p>
+<p>I am sure you understand how important it is as a small business that you pay the invoices that I send you promptly. You agree to stick to the following payment schedule, which will be as follows, but may be revised based on further conversations between us.</p>
 
 <ul>
 <li>[% INITIAL PERCENTAGE] of total estimated maximum fee payable prior to work commencing: [$ INITIAL PERCENTAGE VALUE]</li>
