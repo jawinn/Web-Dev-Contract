@@ -76,7 +76,7 @@ This contract includes one main development cycle plus the opportunity for you t
 
 <h2>Copyrights</h2>
 
-<p>You guarantee to us that any elements of text, graphics, photos, designs, trademarks, or other artwork that you provide me for inclusion in the website are either owned by your good selfs, or that you have permission to use them.</p>
+<p>You guarantee to us that any elements of text, graphics, photos, designs, trademarks, or other artwork that you provide me for inclusion in the website are either owned by your good selves, or that you have permission to use them.</p>
 
 <p>When I receive my final payment, copyright is automatically assigned as follows:</p>
 
