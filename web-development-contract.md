@@ -94,9 +94,9 @@ This contract includes one main development cycle plus the opportunity for you t
 <p>You agree to stick to the following payment schedule, which will be as follows, but may be revised based on further conversations between us.</p>
 
 <ul>
-<li>[% INITIAL PERCENTAGE] of total estimated maximum fee payable prior to work commencing: [$ INITIAL PERCENTAGE VALUE]</li>
+<li>[% INITIAL PERCENTAGE] of total fee payable prior to work commencing: [$ INITIAL PERCENTAGE VALUE]</li>
 <li>Remainder of fee payable prior to handover of the completed files and/or website launch (whichever comes first): [$ REMAINING PAYMENT DUE]</li>
-<li>Should the website development cost come in below what was initially quoted, the difference will be deducted from the final invoice.</li>
+<li>Should the website development cost for any hourly work come in below what was initially quoted, the difference will be deducted from the final invoice.</li>
 </ul>
 
 <p>I do not place any interest on late payments because that&#8217;s no fun for anyone, but reserve the right to stop work on the project and withdraw any staging site or otherwise up until the time any outstanding amount is settled. Hopefully this will not be the case.</p>
