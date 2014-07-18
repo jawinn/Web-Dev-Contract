@@ -91,7 +91,7 @@ This contract includes one main development cycle plus the opportunity for you t
 
 <h2>Payments</h2>
 
-<p>I am sure you understand how important it is as a small business that you pay the invoices that I send you promptly. You agree to stick to the following payment schedule, which will be as follows, but may be revised based on further conversations between us.</p>
+<p>You agree to stick to the following payment schedule, which will be as follows, but may be revised based on further conversations between us.</p>
 
 <ul>
 <li>[% INITIAL PERCENTAGE] of total estimated maximum fee payable prior to work commencing: [$ INITIAL PERCENTAGE VALUE]</li>
